@@ -1,0 +1,1 @@
+Engenharia de software é uma ciência que tem como foco trazer a eficiência a softwares produzidos por uma determinada organização, enconomizando tempo e administrando eventuais mudanças que ocorrem no desenvolvimento.
